@@ -12,6 +12,6 @@
  * @license     http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  */
 
-$GLOBALS['TL_LANG']['MOD']['mwk-manager'] = 'MWX-Manager';
+$GLOBALS['TL_LANG']['MOD']['mwk-supportcenter'] = 'MWX-Support Center';
 $GLOBALS['TL_LANG']['MOD']['mwk-support'][0] = 'Support';
 $GLOBALS['TL_LANG']['MOD']['mwk-support'][1] = 'medienworx Support';

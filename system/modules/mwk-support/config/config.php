@@ -15,21 +15,21 @@
  * Back end modules
  */
 
+if (!is_array($GLOBALS['BE_MOD']['mwk-supportcenter']))
+{
+	array_insert($GLOBALS['BE_MOD'], 1, array('mwk-supportcenter' => array()));
+}
+
 array_insert($GLOBALS['BE_MOD'], 0, array
 
-('mwk-manager' => array
+('mwk-supportcenter' => array
 	(
-
 		'mwk-support' => array
 		(
-			#'tables'            => array ('tl_mwk_support'),
             'callback'          => 'MwkSupportModel',
             'icon'              => 'system/modules/mwk-support/assets/images/icon-support.png',
 			'stylesheet'		=> 'system/modules/mwk-support/assets/css/support.css'
 		),
-
-
-
 	)
 
 ));
