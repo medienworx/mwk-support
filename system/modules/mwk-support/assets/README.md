@@ -1,0 +1,1 @@
+Icon assets/images/icon-support.png by FatCow Web Hosting [http://www.fatcow.com/]

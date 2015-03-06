@@ -1,0 +1,12 @@
+#mwkSupport {
+    padding-bottom: 20px;
+}
+
+#mwkSupport .mwx-logo {
+    text-align: right;
+    display: block;
+}
+#mwkSupport .mwx-logo img {
+    max-width: 250px;
+    height: auto;
+}
