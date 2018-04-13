@@ -6,8 +6,7 @@
  * Copyright (c) 2005-2015 Leo Feyer
  *
  * @package     mwk-phpinfo
- * Copyright    (c) 2015 Agentur medienworx
- * @author      Peter Ongyert <peter.ongyert@medienworx.eu>
+ * @copyright    (c) 2015-2018 Agentur medienworx
  * @license     http://www.gnu.org/licences/lgpl-3.0.html LGPL
  */
 
