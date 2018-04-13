@@ -10,8 +10,6 @@
     <p>In unserem Support Center finden Sie Dokumentationen, Anleitungen, Fragen und Antworten zu all unseren Erweiterungen, die von uns entwickelt wurden.</p>
     </div>
 
-    <a title="Zum Support Center" class="tl_submit" href="http://support.medienworx.eu" target="top">zum Supportcenter</a>
-
-    <a title="Support kontaktieren" class="tl_submit" href="http://support.medienworx.eu/hc/de/requests/new" target="top">Support kontaktieren</a>
+    <a title="Support kontaktieren" class="tl_submit" href="mailto:support@medienworx.eu" target="top">Support kontaktieren</a>
 
 </div>
